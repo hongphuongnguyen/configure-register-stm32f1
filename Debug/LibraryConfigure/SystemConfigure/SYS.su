@@ -1,0 +1,6 @@
+../Drivers/CMSIS/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Drivers/CMSIS/core_cm3.h:1834:26:SysTick_Config	16	static
+../LibraryConfigure/SystemConfigure/SYS.c:4:6:systemClockConfig	8	static
+../LibraryConfigure/SystemConfigure/SYS.c:37:6:SysTick_Handler	4	static
+../LibraryConfigure/SystemConfigure/SYS.c:43:10:getTick	4	static
+../LibraryConfigure/SystemConfigure/SYS.c:47:6:Delay_Tick_ms	24	static

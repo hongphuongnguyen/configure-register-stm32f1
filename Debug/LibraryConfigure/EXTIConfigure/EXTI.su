@@ -1,0 +1,3 @@
+../Drivers/CMSIS/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../LibraryConfigure/EXTIConfigure/EXTI.c:3:6:EXTIConfigure	8	static
